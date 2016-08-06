@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  background: url('bestFriends.jpg') no-repeat center center;
+  background-size: cover;
+
+}
+
+body {
+  background: none;
+  /*background-color: none;*/
+}
